@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Canlı TV</string>
+    <string name="channel_name">Kanal İsmi</string>
+    <string name="search"> Ara</string>
+</resources>
